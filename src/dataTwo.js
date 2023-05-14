@@ -47,7 +47,7 @@ export const dataTwo = [
     description: "Wasita is a famous celebrity who was in the process of planning her marriage to her long-term businessman fiance when she discovered that he has been unfaithful to her. Trying to forget what he did to her, she accidentally ends up having a one-night stand with Gat, her make-up artist, who she thought was gay. To make matters worse, because of that night, she winds up getting pregnant. In order to protect her reputation, Gat offers her a contract marriage. ",
     genre: "Comedy, Romance",
     country: " Thailand",
-    image: "https://pbs.twimg.com/media/FCcP3FuWQA8QW5z.jpg"
+    image: "https://m.media-amazon.com/images/M/MV5BZjk5ZGE3YmMtYWZhMC00OWYxLWE1ZTEtNTU5M2FmMzc5MDkzXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg"
     },
 
     {   
@@ -57,7 +57,7 @@ export const dataTwo = [
     description: "Little Women (Korean: 작은 아씨들; RR: Jag-eun Assideul) is an upcoming South Korean television series directed by Kim Hee-won and starring Kim Go-eun, Nam Ji-hyun, Park Ji-hu and Wi Ha-joon. Based on the 1868 novel of the same name by Louisa May Alcott, it is produced by Studio Dragon for tvN. The series depicts the story of three poor sisters who are close, and how they bravely face Korea's richest family.",
     genre: "Mystery, Family drama",
     country: "South Korea",
-    image: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Little_woman_2022.jpg/250px-Little_woman_2022.jpg"
+    image: "https://m.media-amazon.com/images/M/MV5BMzRlZjkwOWEtMjBhMy00NmM3LWFkMzgtYTFmODIyMWFhNDkyXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000_.jpg"
     },
 
     {   

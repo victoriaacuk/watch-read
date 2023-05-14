@@ -5,7 +5,7 @@ export const data = [
         name: "Fairy Tail",
         searchTerm: "anime",
         description:"The series takes place primarily in the Kingdom of Fiore, a country in the fictional universe Earth-land, where several of its residents perform various forms of magic. Those who practice magic as a profession, referred to as wizards, join guilds where they share information and do paid jobs for clients. The series' storyline follows a group of wizards from the rambunctious titular guild. The main protagonists are Natsu Dragneel, a wizard with the powers of a dragon, and Lucy Heartfilia, a celestial wizard who joins the Fairy Tail guild. In the early part of the series, they form a team including: Happy, a flying cat and best friend of Natsu; Gray Fullbuster, an ice wizard; and Erza Scarlet, a knight who specializes in using various magic weapons and armors. Throughout the series, Lucy and Natsu interact with and befriend other wizards and guilds in Fiore. They also encounter various antagonists from illegal (dark) guilds, and Zeref, an ancient wizard who is the series' main antagonist.",
-        image:"https://kodansha.us/wp-content/uploads/2020/12/9781632364760-677x1024.jpeg",
+        image:"https://upload.wikimedia.org/wikipedia/tr/6/6e/Fairytailcilt06.jpg",
         showMore: false
     },
 

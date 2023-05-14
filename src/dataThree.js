@@ -57,7 +57,7 @@ export const dataThree = [
         date:"2019",
         status:"Ongoing",
         description:"The Empress of the Eastern Kingdom was meanly betrayed by her husband, the Emperor, who asked for a divorce in order to marry a random slave girl. But what was the surprise of everyone when, seemingly abandoned, the empress with a smirk asked permission to remarry - with the heir of a neighboring state.",
-        image:"https://cdn.mangaupdates.com/image/i366895.jpg"
+        image:"https://image.ceneostatic.pl/data/products/144002052/i-the-remarried-empress-vol-1.jpg"
     },
 
     {
